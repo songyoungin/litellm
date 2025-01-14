@@ -12,6 +12,7 @@ openai = "^1.59.6"
 pydantic = "^2.10.5"
 python-dotenv = "^1.0.1"
 loguru = "^0.7.3"
+prisma = "^0.15.0"
 
 
 [tool.poetry.group.dev.dependencies]
